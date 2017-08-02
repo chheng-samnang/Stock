@@ -1,0 +1,186 @@
+/*active button css*/
+.active1
+  {
+    background-color:#058505;
+    color:#fff !important;
+  }
+.active1:hover{
+background-color:#058505!important;
+color: #fff !important;
+  }
+  /*active button css end*/
+  body{
+    background: rgb(241, 241, 241);
+    font-family: Khmer OS Battambang;
+  }  
+  #box1:hover #image{
+    -webkit-transform:scale(1.8);
+    transform:scale(1.8);
+  }
+  #image{
+      border: none;
+      -webkit-transform:scale(0.9);
+      transform:scale(0.9);
+      -webkit-transition: all 0.9s ease;
+      transition: all 0.9s ease;
+  }
+  .navbar-default .navbar-nav>li>a{
+    color: #fff !important;
+    
+  }
+#marquee{
+  height: 30px; padding-top: 5px; background: linear-gradient(#4b4949, #727272); color: #fff;
+}
+.border{
+   padding: 13px; border-bottom:#e4e4e4 solid 1px;
+}
+.navbar-default{
+    background-image: linear-gradient(to bottom, #008000  0%, #108e10  100%) !important;
+}
+#product_titel{
+  font-size: 24.5px; font-weight: bold; text-align: center;
+}
+.description{
+    color: #4d4c4c;
+    font-weight: normal;
+    font-size: 15px;
+    line-height: 2;
+}
+#pages{
+  padding: 1px;margin-bottom: 15px; background: white; box-shadow: 0px 1px 8px 1px;
+}
+#category{
+  margin-top: 5px; margin-bottom: 15px; padding: 1px;  border-bottom:1px solid #1bbd36;
+}
+#bg_category{height: 35px; color: white; width: 180px;
+}
+#img{
+  width: 224px;height:149px;
+}
+.thumbnail{
+  border-radius: 0px;
+}
+#comment{
+  margin-bottom: 20px; margin-top: 10px;
+}
+#label_comment{
+  margin-bottom: 10px; border-bottom: 1px solid #1bbd36;
+}
+#content_detail{
+  width: 970px; background: white;
+}
+#d{
+  padding: 1px; margin-top: 60px;
+}
+.dropbtn {
+    background-color: #028802;
+     color: white;
+    margin-top:13px;
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+}
+#wrapper{
+  width: 1322px; padding: 0px; margin-top: 15px;
+}
+#products_home{
+  margin: 0 auto;  background: white;
+}
+#view{
+  text-decoration: none; color: #5d5b5b; font-size: 18px;
+}
+#cbp-vm{
+  margin-top: 10px;
+}
+#navbar-default{
+  border-radius:0px;height:41px;padding:12px;color:white;
+}
+#products{
+  //padding:0px; //background: white;
+}
+
+.dropdown {
+    position: relative;
+    display: inline-block;
+  
+    
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    right: 0;
+    background-color: #f9f9f9;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+}
+
+.dropdown-content a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+}
+
+
+.dropdown:hover .dropdown-content {
+    display: block;
+    margin-top:15PX;
+}
+
+.dropdown:hover .dropbtn {
+    background-color: #0a610b;
+    height:20px;
+}
+.dropdown-content a:hover {background-color: #0a610b;
+  color:white;
+}
+#mycart{
+    border-radius: 18px;
+}
+#slideshow{
+  padding: 7px; margin-bottom: 35px;
+}
+#category1{
+  padding: 0px;
+  background: white;
+  margin-bottom: 10px;
+  border: solid 1px gainsboro;
+}
+.boxes{
+  background: orange;
+border-radius: 0px;
+}
+li{
+list-style-type: none;
+}
+
+.box:hover .image {
+-webkit-transform:scale(1.3);
+transform:scale(1.3);
+cursor: pointer;
+}
+.box {
+
+}
+.image {
+-webkit-transition: all 0.7s ease;
+transition: all 0.7s ease;
+max-width: 59%;
+}
+.navbar-default{
+       background-image: linear-gradient(to bottom, #106711 0%, #106611 100%);
+}
+#nav_top{
+  background: white;
+}
+#nav_container{
+  margin-top: 55px; height: 74px;
+}
+#footer{
+  background: #ffffff;border-top: 1px solid #bdb8b8;
+}
+.tab_color
+{
+  background-color:#098809;
+ color:#fff;}
